@@ -1,0 +1,1 @@
+This project simulates a simplified version of Google Drive in a console-based C++ program. It allows users to sign up, log in, and manage files and folders with functionalities like creation, deletion, restoration, writing, reading, and navigation.
